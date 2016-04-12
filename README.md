@@ -1,5 +1,5 @@
 # ROMA2032
-A near-future cyberpunk setting based in an (even more) dysfunctional Italy. 
+_A near-future cyberpunk setting based in an (even more) dysfunctional Italy._
 
 ######IN ROMA2032...
 Silvio Berlusconi is still alive, and still prime Minister, though he lives on life support and true power is held and real power is held by his circle of cronies.
