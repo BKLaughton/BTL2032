@@ -1,2 +1,2 @@
 # ROMA2032
-_A near-future cyberpunk setting based in an (even more) dysfunctional Italy._
+_A collection of short stories set in an (even mor) dysfunctional, near-future, cyberpunk Italy._
