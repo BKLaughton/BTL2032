@@ -1,2 +1,2 @@
-# ROMA2032
-_A collection of short stories set in an (even mor) dysfunctional, near-future, cyberpunk Italy._
+# BTL2032
+_A collection of short stories set around the Better Than Life (BTL) virtual reality blackmarket
