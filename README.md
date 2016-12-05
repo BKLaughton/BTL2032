@@ -1,5 +1,5 @@
 # EURO_2032
-_A collection of short stories set around the European 'Better Than Life' (BTL) virtual reality blackmarket._
+_A collection of short stories set around the European 'better than life' (BTL) virtual reality blackmarket._
 
 ## Chapters
 1. Coming soon...
